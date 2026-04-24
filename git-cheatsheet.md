@@ -1,4 +1,4 @@
-#git cheat sheet
+#git commands guide
 ## basic commands
 - git init : create a new repository
 - git add . : add files to staging
